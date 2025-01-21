@@ -1,6 +1,5 @@
 node_modules
 package-lock.json
-gltf
-
-!gltf/test_scene/*
-!gltf/tv_model/*
+dist
+dev.log
+.DS_Store
